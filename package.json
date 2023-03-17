@@ -1,0 +1,23 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "start": "Hola,este es mi primer ejercicio con Node en el mejor Bootcamp de programación en el mundo" ,
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YazminSosa/Primer-ejercicio-en-Node.git" 
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YazminSosa/Primer-ejercicio-en-Node/issues"
+  },
+  "homepage": "https://github.com/YazminSosa/Primer-ejercicio-en-Node#readme"
+}
